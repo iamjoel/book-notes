@@ -1,5 +1,4 @@
 # 笔记
-
 ## 读书笔记 [模板](book/template.md)
 ### 我的
 * [学习之道](book/mine/学习之道.md)
@@ -10,5 +9,9 @@
 
 ### 别人的
 [习惯的力量](book/others/习惯的力量.md)
+
+## 其他
+* [写作](write)
+* [鸡汤](motto.md)
 
 

@@ -6,7 +6,7 @@
 * 友盟指数（查询机型硬件和软件操作系统）（http://umindex.com）
 * 淘宝指数(http://shu.taobao.com/)
 * 微指数（微博指数http://data.weibo.com/index）
-* 新媒体排行（http://www.newrank.cn/）
+* 新媒体排行（http://www.newrank.cn/）新榜的微信公众号的数据是
 * 新媒体指数（http://www.gsdata.cn/）
 
 如何用好这些工具？研究这些指数的各指标的说明，和用法。

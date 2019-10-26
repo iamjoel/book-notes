@@ -1,4 +1,7 @@
-# 笔记
+# 生活中的油盐酱醋茶
+## 软件使用
+* [Mac](app&software/mac.md)
+
 ## 读书笔记 [模板](book/template.md)
 ### 我的
 * [学习之道](book/mine/学习之道.md)
